@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import { ArrowRight, Menu, X, ChevronDown } from "lucide-react";
+import { ArrowRight, Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import logoImg from "../../assets/693317ecc3a78-logo-g-2.jpg";
 
